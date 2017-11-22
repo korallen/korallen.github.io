@@ -1,7 +1,19 @@
-# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
+title:             Clean Blog
+email:             your-email@example.com
+description:       A Blog Theme by Start Bootstrap
+author:            Start Bootstrap
+baseurl:           "/startbootstrap-clean-blog-jekyll"
+url:               "http://blackrockdigital.github.io"
 
-auto: true # automatically update your jekyll
-server: true # runs a local server
-paginate: 10 # pagination basted on number of posts
-exclude: ["Gemfile", "Gemfile.lock", "README.md", 'sass', 'watch.sh', 'style.scss'] # files to exclude
+# Social Profiles
+twitter_username:  SBootstrap
+github_username:   BlackrockDigital
+facebook_username: StartBootstrap
 
+# Build settings
+markdown:          kramdown
+paginate:          5
+paginate_path:     "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
