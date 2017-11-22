@@ -1,0 +1,7 @@
+﻿---
+layout: post
+title:  "test3"
+date:   2017-11-23 08:56:36 +0900
+categories: jekyll update
+---
+이번에는 git 연습
