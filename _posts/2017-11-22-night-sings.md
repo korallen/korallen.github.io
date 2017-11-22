@@ -1,7 +1,7 @@
 ---
 layout: post
-title: ""밤은 노래한다", 열망의 주관주의에 대하여"
-date: November 22, 2017, 11:10 AM
+title: '"밤은 노래한다", 열망의 주관주의에 대하여'
+date: 2017-11-22 11:10:00
 categories: jekyll update
 ---
 
